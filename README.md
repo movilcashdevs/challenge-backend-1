@@ -51,24 +51,7 @@ Desarrollar una aplicación en Python que simule una **batalla Pokémon** entre 
      - Estadísticas faltantes o inconsistentes.
    - Mostrar mensajes claros al usuario en caso de errores.
 
-
-#### Evaluación
-Se contemplará en la solución los siguientes aspectos:
-1. **Calidad del código:**
-   - Legibilidad, uso correcto de métodos públicos y privados, estructura modular.
-   - Cumplimiento de los principios SOLID.
-
-2. **Buenas prácticas:**
-   - Uso adecuado de anotaciones de tipo, docstrings y contratos de datos.
-
-3. **Manejo de errores y robustez:**
-   - Soluciones claras y elegantes para errores comunes.
-
-4. **Diseño y creatividad:**
-   - Inclusión de patrones de diseño cuando sea relevante.
-   - Implementación lógica de la batalla y cómo se presenta al usuario.
-
-5. **Entrega:**
+#### Entrega:
    - Subir el código a un repositorio de GitHub y enviar el enlace al correo electrónico proporcionado.
    - Archivo `README.md` que explique cómo ejecutar la aplicación, dependencias necesarias, y una breve descripción de la lógica utilizada.
 
