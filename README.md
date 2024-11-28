@@ -14,7 +14,7 @@ Desarrollar una aplicación en Python que simule una **batalla Pokémon** entre 
    - La batalla se desarrollará en **tres turnos** y se calculará el daño eligiendo de forma aleatoria en cada turno una de las dos fórmulas:
      1. `damage = (attack / defense del oponente) * 10`
      2. `damage = (special-attack / special-defense del oponente) * 10`
-   - Este `damage` se restara la vida (HP) `hp-=damage`
+   - Este `damage` se restara a la vida (HP) `hp-=damage`
    - El turno lo inicia el Pokémon con mayor velocidad.
    - Se registrará y mostrará en pantalla lo que sucede en cada turno (ejemplo: "Turno 1: Pikachu ataca a Charizard y causa 35 puntos de daño").
    - La vida total ("HP"), ataque, defensa, ataque especial, defensa especial y velocidad de los Pokémon se obtendrán de "stats" de la API.
